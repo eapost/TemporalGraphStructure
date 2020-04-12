@@ -1,4 +1,4 @@
-# TemporalGraphStructure
+# Twitter-Graph
 
 # Problem: Twitter mention graph
 
